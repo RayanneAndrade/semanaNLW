@@ -146,7 +146,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 This project is under the MIT license. See the [LICENSE](https://github.com/RayanneAndrade/SemanaNLW/blob/master/LICENSE) for details.
 
 
-Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/rayanne-andrade/)
+Made with RayanneAndrade :wave: [Get in touch!](https://www.linkedin.com/in/rayanne-andrade/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
